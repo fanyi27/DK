@@ -1,0 +1,47 @@
+<!--a href="https://github.com/takashiki/ourls">
+
+    <img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/38ef81f8aca64bb9a64448d0d70f1308ef5341ab/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f6461726b626c75655f3132313632312e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png">
+
+</a-->
+
+<html>
+
+ <head></head>
+
+ <body>
+
+  <div class="header"> 
+
+   <div class="am-g"> 
+
+    <h1>Uomg Pay QR</h1> 
+
+    <p>优启梦收款码<br>打造最简洁收款服务</p> 
+
+   </div> 
+
+   <hr> 
+
+  </div> 
+
+  <div class="am-g"> 
+
+   <div id="content" class="am-u-lg-6 am-u-md-8 am-u-sm-centered"> 
+
+    <div class="am-panel am-panel-primary"> 
+
+     <div class="am-panel-bd">
+
+       微信小程序：
+
+      <mark>三合一收款码</mark> 
+
+      <br>本站托管在腾讯COS中！
+
+      <a href="https://qrpay.uomg.com/support.html" target="_blank">立即赞助</a> 
+
+     </div> 
+
+    </div> 
+
+    <form class="am-form" id="shor
