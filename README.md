@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+收款二维码合并
 
-You can use the [editor on GitHub](https://github.com/Kaitouhan/MyPay/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+原理：
+扫描二维码后跳转到此页面，然后根据 UA 判断具体平台。
+然后根据平台进行跳转，支付宝可以直接跳转到收款链接，而微信和QQ只能跳转到二维码进行付款。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+有什么不懂的可以问我😁
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kaitouhan/MyPay/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+QQ：691767737
